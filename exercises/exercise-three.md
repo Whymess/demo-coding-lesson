@@ -1,6 +1,6 @@
 ## Use of De-structuring in React
 
-The state and props in React are always in an object format. This means that the values via key-value pair.  Because of this, these objects can be deconstructed, using the techniques we learned in the previous lessons.
+The state and props in React are always in an object format. Accordingly, the values are via key-value pairs. Because of this, these objects can be deconstructed, using the techniques we learned in the previous lessons.
 
 ```
 import React from "react";
